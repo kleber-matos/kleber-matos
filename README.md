@@ -2,7 +2,7 @@
 
 <div style="display: block">
   
-  ![Kleber's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleber-matos&show_icons=true&theme=dracula) 
+  ![Kleber's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleber-matos&show_icons=true&theme=dracula) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleber-matos&layout=compact&langs_count=168theme=dracula"/>
   
 
   

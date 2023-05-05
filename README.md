@@ -1,4 +1,4 @@
-### Olá, eu sou o Kleber Matos 👋
+### Kleber Matos 👋
 
 <div style="display: block">
   

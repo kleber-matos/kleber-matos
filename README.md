@@ -2,9 +2,9 @@
 
 <div style="display: block">
   
-  ![Kleber's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleber-matos&show_icons=true&theme=dracula) <
-  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div> 
 <div style="display: inline-block"><br/>

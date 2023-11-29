@@ -3,7 +3,7 @@ Sou do rio de janeiro
 
 Sou desenvolvedor front-end
 
-Tenho 23 anos 
+Tenho 22 anos 
 
 Estou cursando o curso de front-end do Vai na Web
 

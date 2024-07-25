@@ -17,5 +17,5 @@
 ##
 <a href="https://www.linkedin.com/in/kleber-matos/" title="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteN" alt="LinkedIn"/></a>
- <a href="klebermatos2019@gmail.com" title="Gmail">
+ <a href="https://klebermatos2019@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>

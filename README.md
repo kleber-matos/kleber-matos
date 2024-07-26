@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=kleber-matos&theme=vision-friendly-dark&hide_border=false&include_all_commits=true" alt="Github Stats" />
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=kleber-matos&show_icons=true&theme=apprentice" alt="Github Stats" />
 
 ### Olá, meu nome é Kleber Matos!
 

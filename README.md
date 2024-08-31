@@ -3,7 +3,7 @@
 ## Hey! 👋
 
 Eu sou Kleber, tenho 23 anos e sou um desenvolvedor Front-End.
-Atualmente trabalho na escola [Vai na Web](https://vainaweb.com.br/).
+Atualmente trabalho na escola [Vai na Web](https://vainaweb.com.br/). <br>
 Curiosidade: Além de trabalhar com tecnologia, sou apaixonado por andar de skate e também tenho habilidades como barbeiro.
 
 ---
